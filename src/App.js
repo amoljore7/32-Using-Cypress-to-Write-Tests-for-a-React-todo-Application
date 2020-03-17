@@ -9,11 +9,11 @@ class App extends Component {
     list: [
       {
         id: 1,
-        value: "Buy Milk"
+        value: "Buy Lunch"
       },
       {
         id: 2,
-        value: "Write tutorial"
+        value: "Write Code"
       }
     ],
     item: ""
