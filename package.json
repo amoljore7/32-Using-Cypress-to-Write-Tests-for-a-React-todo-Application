@@ -24,5 +24,6 @@
   ],
   "devDependencies": {
     "cypress": "^4.2.0"
-  }
+  },
+  "cypress": "cypress open"
 }
